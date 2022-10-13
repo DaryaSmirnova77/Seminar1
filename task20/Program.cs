@@ -3,9 +3,9 @@
 
 Console.Clear();
 Console.WriteLine("Введите число A");
-int a = int.Parse(Console.ReadLine()!);
+int A = int.Parse(Console.ReadLine()!);
 Console.WriteLine("Введите число B");
-int b = int.Parse(Console.ReadLine()!);
+int B = int.Parse(Console.ReadLine()!);
 
 int Pow(int a, int b)
 {
@@ -16,4 +16,4 @@ int Pow(int a, int b)
     }
     return Pow;
 }
-      Console.WriteLine(Pow(a,b));
+      Console.WriteLine(Pow(A,B));

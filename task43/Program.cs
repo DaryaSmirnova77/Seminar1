@@ -58,11 +58,11 @@ void IndexMinSumn (int[,] array)
 
 Console.Clear();
 Console.Write("Введите количество строк в массиве: ");
-int n = int.Parse(Console.ReadLine()!);
+int row = int.Parse(Console.ReadLine()!);
 Console.Write("Введите количество столбцов в массиве: ");
 int columns = int.Parse(Console.ReadLine()!);
 Console.WriteLine();
-int[,] array = GetArray(n, columns, 0, 10);
+int[,] array = GetArray(row, columns, 0, 10);
 PrintArray(array);
 
 Console.WriteLine();

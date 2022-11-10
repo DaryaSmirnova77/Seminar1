@@ -55,11 +55,11 @@ int[,] SortRowsArray(int[,] inArray)
 
 Console.Clear();
 Console.Write("Введите количество строк в массиве: ");
-int m = int.Parse(Console.ReadLine()!);
+int row = int.Parse(Console.ReadLine()!);
 Console.Write("Введите количество столбцов в массиве: ");
-int ns = int.Parse(Console.ReadLine()!);
+int columns = int.Parse(Console.ReadLine()!);
 Console.WriteLine();
-int[,] array = GetArray(m, ns, 0, 10);
+int[,] array = GetArray(row, columns, 0, 10);
 PrintArray(array);
 Console.WriteLine();
 int[,] result = SortRowsArray(array);

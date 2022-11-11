@@ -1,0 +1,15 @@
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task45\bin\Debug\net6.0\task45.exe
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task45\bin\Debug\net6.0\task45.deps.json
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task45\bin\Debug\net6.0\task45.runtimeconfig.json
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task45\bin\Debug\net6.0\task45.dll
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task45\bin\Debug\net6.0\task45.pdb
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task45\obj\Debug\net6.0\task45.csproj.AssemblyReference.cache
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task45\obj\Debug\net6.0\task45.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task45\obj\Debug\net6.0\task45.AssemblyInfoInputs.cache
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task45\obj\Debug\net6.0\task45.AssemblyInfo.cs
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task45\obj\Debug\net6.0\task45.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task45\obj\Debug\net6.0\task45.dll
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task45\obj\Debug\net6.0\refint\task45.dll
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task45\obj\Debug\net6.0\task45.pdb
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task45\obj\Debug\net6.0\task45.genruntimeconfig.cache
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task45\obj\Debug\net6.0\ref\task45.dll

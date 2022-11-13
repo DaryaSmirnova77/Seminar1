@@ -1,0 +1,15 @@
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task48\bin\Debug\net6.0\task48.exe
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task48\bin\Debug\net6.0\task48.deps.json
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task48\bin\Debug\net6.0\task48.runtimeconfig.json
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task48\bin\Debug\net6.0\task48.dll
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task48\bin\Debug\net6.0\task48.pdb
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task48\obj\Debug\net6.0\task48.csproj.AssemblyReference.cache
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task48\obj\Debug\net6.0\task48.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task48\obj\Debug\net6.0\task48.AssemblyInfoInputs.cache
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task48\obj\Debug\net6.0\task48.AssemblyInfo.cs
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task48\obj\Debug\net6.0\task48.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task48\obj\Debug\net6.0\task48.dll
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task48\obj\Debug\net6.0\refint\task48.dll
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task48\obj\Debug\net6.0\task48.pdb
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task48\obj\Debug\net6.0\task48.genruntimeconfig.cache
+C:\Users\Дарья\OneDrive\Рабочий стол\Seminar 30.09.22\task48\obj\Debug\net6.0\ref\task48.dll
